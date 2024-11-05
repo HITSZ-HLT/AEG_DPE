@@ -1,0 +1,11 @@
+backoff>=2.2.1
+openai>=1.0.0
+matplotlib
+numpy
+pandas
+sympy
+torch>=2.0.1
+transformers>=4.31.0
+accelerate>=0.21.0
+bitsandbytes>=0.41.0
+scipy

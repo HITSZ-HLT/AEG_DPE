@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+
+# Installer logs
+pip-log.txt
+
+# IDEs
+.idea/
+*.vscode/
+*.pycproj
+*.user
+*.pyproj.user
+
+# Data
+results/
+*.out
+*.err
+
+# Environments
+env/
+
+# Config File
+**/config.json
+
+cache
+
+
+gpt_evaluate
+
+
+eval_pipline
+
+human_evaluation
+compare_demo
+analyse
+
+data/deprecated
+
+__pycache__
+
+cache
+
+camera_ready_data
